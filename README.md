@@ -2,15 +2,12 @@
 
 Module for managing S3 for various context.
 
-## Maintainers
-
-* Bartłomiej Wójtowicz ([@qbart](https://github.com/qbart))
-
 ## Development
 
 Generate docs:
 ```
-./generate-docs.sh
+terraform-docs markdown modules/apps/        > modules/apps/README.md
+terraform-docs markdown modules/apps-policy/ > modules/apps-policy/README.md
 ```
 
 ## LICENSE
