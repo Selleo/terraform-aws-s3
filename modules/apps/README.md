@@ -34,3 +34,4 @@ No modules.
 |------|-------------|
 | <a name="output_arn"></a> [arn](#output\_arn) | S3 bucket ARN |
 | <a name="output_id"></a> [id](#output\_id) | S3 bucket ID |
+| <a name="output_name"></a> [name](#output\_name) | S3 bucket name |
